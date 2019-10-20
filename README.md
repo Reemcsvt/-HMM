@@ -1,2 +1,2 @@
 # -HMM
-Hidden Markov Model Written by Reem Aldaihani
+Hidden Markov Model code written by Reem Aldaihani
